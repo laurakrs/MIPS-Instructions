@@ -11,3 +11,14 @@ Load Byte Unsigned
 Shift Right Arithmetic
 ## SLTIU
 Set on Less Than Immediate Unsigned 
+
+# Progress Track
+
+
+| **Progress**   | **Monocycle**  | **Multicycle**  | **Pipeline**  |
+|----------------|----------------|-----------------|---------------|
+| BLTZ           | OK            |                |            |
+| DIV            |              |                |              |
+| JAL            |              |                |              |
+| LB             |              |              |              |
+| SLTIU          |              |                |              |
