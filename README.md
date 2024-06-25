@@ -19,6 +19,6 @@ Set on Less Than Immediate Unsigned
 |----------------|----------------|-----------------|---------------|
 | JALR           | OK            |                |            |
 | BLTZ            |   OK           |                |              |
-| LBU            |   OK           |                |              |
-| SRA             |    OK          |              |              |
-| SLTIU          |       --       |                |              |
+| LBU            |   OK           |        OK        |              |
+| SRA             |    OK          |         OK     |              |
+| SLTIU          |       --       |        --        |              |
