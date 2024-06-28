@@ -18,7 +18,7 @@ Set on Less Than Immediate Unsigned
 | **Progress**   | **Monocycle**  | **Multicycle**  | **Pipeline**  |
 |----------------|----------------|-----------------|---------------|
 | JALR           | OK            |          OK      |            |
-| BLTZ            |   OK           |          OK      |              |
-| LBU            |   OK           |        OK        |              |
-| SRA             |    OK          |         OK     |              |
-| SLTIU          |       --       |        --        |              |
+| BLTZ            |   OK           |          OK      |     OK         |
+| LBU            |   OK           |        OK        |        OK      |
+| SRA             |    OK          |         OK     |          OK    |
+| SLTIU          |       --       |        --        |       --       |
